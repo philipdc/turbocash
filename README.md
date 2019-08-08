@@ -1,3 +1,4 @@
 # turbocash
 
-A github Redpository to manage the Open source turbocash\bin for use with Turbocash 4 and Turbocash 5.
+A github Repository to manage the open source turbocash\bin for use with TurboCASH4 and TurboCASH5.
+
