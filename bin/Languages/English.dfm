@@ -14,7 +14,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1753
-      Text = 'Incl./Excl. mode'
+      Text = 'Incl/Excl mode'
     end
     item
       IndexID = 1752
@@ -78,7 +78,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 21
-      Text = '&Exit TurboCASH'
+      Text = '&Exit <@APPNAME@>'
     end
     item
       IndexID = 22
@@ -114,11 +114,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 30
-      Text = 'Creditors'
+      Text = 'Creditor'
     end
     item
       IndexID = 31
-      Text = 'Debtors'
+      Text = 'Debtor'
     end
     item
       IndexID = 32
@@ -266,7 +266,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 69
-      Text = '&Remittance advices'
+      Text = '&Remittance advises'
     end
     item
       IndexID = 70
@@ -466,7 +466,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 119
-      Text = 'About TurboCASH'
+      Text = 'About <@APPNAME@>'
     end
     item
       IndexID = 120
@@ -650,7 +650,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 166
-      Text = 'Reconciliation'
+      Text = 'Cash/Bank entry'
     end
     item
       IndexID = 167
@@ -846,7 +846,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 214
-      Text = 'Units'
+      Text = 'Unit size'
     end
     item
       IndexID = 215
@@ -1326,7 +1326,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 334
-      Text = 'Next supplier return no.'
+      Text = 'Next return no.'
     end
     item
       IndexID = 335
@@ -1434,7 +1434,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 365
-      Text = 'About TurboCASH'
+      Text = 'About <@APPNAME@>'
     end
     item
       IndexID = 366
@@ -2063,8 +2063,8 @@ object TTranslationSaveObject
     item
       IndexID = 515
       Text = 
-        'This copy of TurboCASH is not registered! Do you wish to registe' +
-        'r it now?'
+        'This copy of <@APPNAME@> is not registered! Do you wish to regis' +
+        'ter it now?'
     end
     item
       IndexID = 516
@@ -2225,9 +2225,9 @@ object TTranslationSaveObject
     item
       IndexID = 544
       Text = 
-        'Welcome to the TurboCASH Set of Books Creation wizard. Please se' +
-        'lect an option and click on the Next button, or click on the Can' +
-        'cel button to cancel the creation of a new Set of Books.'
+        'Welcome to the <@APPNAME@> Set of Books Creation Wizard. Please ' +
+        'select an option and click on the Next button, or click on the C' +
+        'ancel button to cancel the creation of a new Set of Books.'
     end
     item
       IndexID = 543
@@ -2240,9 +2240,9 @@ object TTranslationSaveObject
     item
       IndexID = 541
       Text = 
-        'Please select a Set of Books from the list below, or click Brows' +
-        'e button to select the Set of Books you wish to copy in a folder' +
-        ' elsewhere on your system.'
+        'Please select a Set of Books from the list below, or click Bowse' +
+        ' button to select the Set of Books you wish to copy in a folder ' +
+        'elsewhere on your system.'
     end
     item
       IndexID = 540
@@ -2254,7 +2254,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 550
-      Text = 'Convert TurboCASH3 to TurboCASH5?'
+      Text = 'Convert <@APPNAME@>3 to <@APPNAME@>?'
     end
     item
       IndexID = 549
@@ -2262,7 +2262,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 548
-      Text = 'Let TurboCASH help you to create a Set of Books?'
+      Text = 'Let <@APPNAME@> help you to create a Set of Books?'
     end
     item
       IndexID = 547
@@ -2270,7 +2270,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 546
-      Text = 'Convert from an older TurboCASH3 (v 2.01, 2.02, 2.03)?'
+      Text = 'Convert from an older TurboCASH (v 2.01, 2.02, 2.03)?'
     end
     item
       IndexID = 557
@@ -2850,7 +2850,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 704
-      Text = 'Supplier return no.'
+      Text = 'Supplier ret. no.'
     end
     item
       IndexID = 705
@@ -2858,7 +2858,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 706
-      Text = 'Credit notes'
+      Text = 'Credit note'
     end
     item
       IndexID = 707
@@ -2908,7 +2908,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 718
-      Text = 'Or trouble on a network mapped drive'
+      Text = 'Or trouble on a network maped drive'
     end
     item
       IndexID = 719
@@ -3100,7 +3100,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 766
-      Text = 'Cannot transfer transactions to the same account!'
+      Text = 'Cannot transfer tansactions to the same account!'
     end
     item
       IndexID = 767
@@ -3114,7 +3114,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 769
-      Text = 'TurboCASH would like to remind you that:'
+      Text = '<@APPNAME@> would like to remind you that:'
     end
     item
       IndexID = 770
@@ -3242,7 +3242,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 800
-      Text = 'Do you wish to close TurboCASH?'
+      Text = 'Do you wish to close <@APPNAME@>?'
     end
     item
       IndexID = 801
@@ -3371,7 +3371,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 830
-      Text = 'Please contact your TurboCASH administrator!'
+      Text = 'Please contact your <@APPNAME@> administator!'
     end
     item
       IndexID = 831
@@ -3403,7 +3403,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 838
-      Text = '&Contacts'
+      Text = '&Contact'
     end
     item
       IndexID = 839
@@ -3752,8 +3752,8 @@ object TTranslationSaveObject
     item
       IndexID = 927
       Text = 
-        'This user setting is now turned to administrator user by TurboCA' +
-        'SH!'
+        'This user setting is now turned to administrator user by <@APPNA' +
+        'ME@>!'
     end
     item
       IndexID = 928
@@ -3918,7 +3918,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 967
-      Text = 'Unregistered copies of TurboCASH'
+      Text = 'Unregistered copies of <@APPNAME@>'
     end
     item
       IndexID = 968
@@ -3930,7 +3930,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 970
-      Text = 'Unlocking code (from TurboCASH):'
+      Text = 'Unlocking code (from <@APPNAME@>):'
     end
     item
       IndexID = 971
@@ -3938,7 +3938,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 972
-      Text = 'Register your TurboCASH'
+      Text = 'Register your <@APPNAME@>'
     end
     item
       IndexID = 973
@@ -3951,8 +3951,8 @@ object TTranslationSaveObject
     item
       IndexID = 975
       Text = 
-        'This copy of TurboCASH is not registered! Do you wish to registe' +
-        'r it now?'
+        'This copy of <@APPNAME@> is not registered! Do you wish to regis' +
+        'ter it now?'
     end
     item
       IndexID = 976
@@ -4122,7 +4122,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1017
-      Text = 'TurboCASH - Load logo'
+      Text = '<@APPNAME@> - Load logo'
     end
     item
       IndexID = 1018
@@ -4388,11 +4388,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1089
-      Text = 'Creditor remittance advice'
+      Text = 'Remittance advise'
     end
     item
       IndexID = 1090
-      Text = 'Debtor statement'
+      Text = 'Debtor statements'
     end
     item
       IndexID = 1091
@@ -4530,7 +4530,7 @@ object TTranslationSaveObject
       IndexID = 1124
       Text = 
         'Missing or corrupted debtors and creditors control accounts! Ple' +
-        'ase contact TurboCASH for support!'
+        'ase contact <@APPNAME@> for support!'
     end
     item
       IndexID = 1125
@@ -4550,7 +4550,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1129
-      Text = 'Remittance advice to'
+      Text = 'Remittance advise to'
     end
     item
       IndexID = 1130
@@ -4824,11 +4824,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1197
-      Text = 'TCASH5 Support'
+      Text = '<@APPNAME@> Support'
     end
     item
       IndexID = 1198
-      Text = 'TurboCASH Support page'
+      Text = '<@APPNAME@> Support page'
     end
     item
       IndexID = 1199
@@ -5295,7 +5295,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1314
-      Text = 'Receipts options'
+      Text = 'Edit receipts options'
     end
     item
       IndexID = 1315
@@ -5925,7 +5925,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1749
-      Text = 'TCASH5 till test'
+      Text = '<@APPNAME@> till test'
     end
     item
       IndexID = 1748
@@ -6231,7 +6231,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1827
-      Text = 'Set of Books copied!'
+      Text = 'Set of Books copied'
     end
     item
       IndexID = 1839
@@ -6723,7 +6723,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1951
-      Text = 'TCASH5 Report mail sender %s e-mail account %s'
+      Text = '<@APPNAME@> Report mail sender %s e-mail account %s'
     end
     item
       IndexID = 1962
@@ -6751,13 +6751,15 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1968
-      Text = 'Cannot have more than 150 for this unregisted TurboCASH Copie%s'
+      Text = 
+        'Cannot have more than 150 for this unregisted <@APPNAME@> Copie%' +
+        's'
     end
     item
       IndexID = 1967
       Text = 
-        'Unregistered TurboCASH copie%s are limited to %s transactions%sY' +
-        'ou have now reached %s %sPlease register'
+        'Unregistered <@APPNAME@> copie %s are limited to %s transactions' +
+        ' %s You have now reached %s %s Please register'
     end
     item
       IndexID = 1966
@@ -7130,9 +7132,8 @@ object TTranslationSaveObject
     item
       IndexID = 20078
       Text = 
-        'This version will only work till 1-3-2005 for more info go to ht' +
-        'tp://www.osf-boekhoudpakket-administratie.nl/index.php/en/websho' +
-        'p'
+        'This version wil only work till 1-3-2005 for more info go to <@A' +
+        'PPURL@>'
     end
     item
       IndexID = 20077
@@ -7197,8 +7198,8 @@ object TTranslationSaveObject
     item
       IndexID = 1969
       Text = 
-        'Cannot have more than %s for this unregisted TurboCASH Copie%s! ' +
-        'Please register and get your license code!'
+        'Cannot have more than %s for this unregisted <@APPNAME@> Copie %' +
+        's! Please register and get your licence code!'
     end
     item
       IndexID = 1988
@@ -7438,7 +7439,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2012
-      Text = 'Date / Period'
+      Text = 'Date / period'
     end
     item
       IndexID = 2011
@@ -7498,7 +7499,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2021
-      Text = 'Import data into TurboCASH'
+      Text = 'Import data into <@APPNAME@>'
     end
     item
       IndexID = 2020
@@ -7534,7 +7535,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2036
-      Text = 'TCASH5 Invoice'
+      Text = '<@APPNAME@> Invoice'
     end
     item
       IndexID = 2035
@@ -7598,7 +7599,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2044
-      Text = '15.00%'
+      Text = '14.00%'
     end
     item
       IndexID = 2043
@@ -7852,7 +7853,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2114
-      Text = 'TurboCASH select backup file'
+      Text = '<@APPNAME@> select backup file'
     end
     item
       IndexID = 2113
@@ -8006,7 +8007,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2148
-      Text = 'According to TurboCASH:'
+      Text = 'According to <@APPNAME@>:'
     end
     item
       IndexID = 2147
@@ -8202,7 +8203,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2198
-      Text = 'Invoice/Accounting'
+      Text = 'Invoice/accounting'
     end
     item
       IndexID = 2197
@@ -9506,7 +9507,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3016
-      Text = 'Bank balance according to TurboCASH at'
+      Text = 'Bank balance according to <@APPNAME@> at'
     end
     item
       IndexID = 3015
@@ -9810,11 +9811,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2887
-      Text = 'Process selected'
+      Text = 'Process Selected'
     end
     item
       IndexID = 2886
-      Text = 'Process list'
+      Text = 'Process List'
     end
     item
       IndexID = 2897
@@ -10186,7 +10187,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 2983
-      Text = 'Quotes / Orders'
+      Text = 'Quotes / orders'
     end
     item
       IndexID = 2982
@@ -10566,7 +10567,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3093
-      Text = 'Transaction date'
+      Text = 'Transaction  date'
     end
     item
       IndexID = 3094
@@ -10596,9 +10597,8 @@ object TTranslationSaveObject
       IndexID = 3100
       Text = 
         'You are trying to connect to a remote database! This version doe' +
-        's not support that by default! Please contact us at http://www.o' +
-        'sf-boekhoudpakket-administratie.nl/index.php/en/webshop to suppo' +
-        'rt the project and receive your multi-user license!'
+        's not support that by default! Please contact us at <@APPURL@> t' +
+        'o support the project and receive your multi-user. license!'
     end
     item
       IndexID = 3101
@@ -10610,7 +10610,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3103
-      Text = ' Single user'
+      Text = 'Embedded'
     end
     item
       IndexID = 3104
@@ -10650,55 +10650,47 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3113
-      Text = 'http://turbocash.ning.com/page/reporting-bugs'
+      Text = 'http://sourceforge.net/tracker/?group_id=169037'
     end
     item
       IndexID = 3114
-      Text = 'http://turbocash.ning.com/forum'
+      Text = '<@APPURL@>'
     end
     item
       IndexID = 3115
-      Text = 'http://turbocash.ning.com/page/ads-page'
+      Text = '<@APPURL@>'
     end
     item
       IndexID = 3116
-      Text = 'http://turbocash.ning.com/page/opening-a-support-ticket'
+      Text = '<@APPURL@>'
     end
     item
       IndexID = 3117
       Text = 
-        'Unregistered version! Please buy this plugin at http://www.osf-b' +
-        'oekhoudpakket-administratie.nl/index.php/en/webshop and support ' +
-        'the TurboCASH development.'
+        'Unregistered version! Please buy this plugin at <@APPURL@> and s' +
+        'upport the <@APPNAME@> development.'
     end
     item
       IndexID = 3118
       Text = 
         'This demo plugin allows %s records to be entered. If you need mo' +
-        're, please buy the product at http://www.osf-boekhoudpakket-admi' +
-        'nistratie.nl/index.php/en/webshop'
+        're, please buy the product at <@APPURL@>'
     end
     item
       IndexID = 3119
-      Text = 'http://turbocash.ning.com/page/ads-page'
+      Text = '<@APPURL@>'
     end
     item
       IndexID = 3120
-      Text = 
-        ':Time license expires in 1 day! Please contact http://www.osf-bo' +
-        'ekhoudpakket-administratie.nl/index.php/en/webshop'
+      Text = ':Time license expires in 1 day! Please contact <@APPURL@>'
     end
     item
       IndexID = 3121
-      Text = 
-        ':Time license expires in %s days! Please contact http://www.osf-' +
-        'boekhoudpakket-administratie.nl/index.php/en/webshop'
+      Text = ':Time license expires in %s days! Please contact <@APPURL@>'
     end
     item
       IndexID = 3122
-      Text = 
-        'Time license expired! Please contact http://www.osf-boekhoudpakk' +
-        'et-administratie.nl/index.php/en/webshop'
+      Text = 'Time license expired! Please contact <@APPURL@>'
     end
     item
       IndexID = 1000000
@@ -10706,7 +10698,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1000001
-      Text = 'Welcome to TurboCASH'
+      Text = 'Welcome to <@APPNAME@>'
     end
     item
       IndexID = 900000
@@ -10922,7 +10914,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 903008
-      Text = 'View/Edit'
+      Text = 'View/edit'
     end
     item
       IndexID = 903009
@@ -10956,7 +10948,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 1000004
-      Text = 'TurboCASH'
+      Text = '<@APPNAME@>'
     end
     item
       IndexID = 1000005
@@ -11328,7 +11320,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906051
-      Text = 'Log report'
+      Text = 'Log-on report'
     end
     item
       IndexID = 906052
@@ -11408,7 +11400,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3123
-      Text = 'Welcome to TurboCASH'
+      Text = 'Welcome to <@APPNAME@>'
     end
     item
       IndexID = 3124
@@ -11416,11 +11408,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3125
-      Text = 'Auto-open when starting TurboCASH'
+      Text = 'Auto-open when starting <@APPNAME@>'
     end
     item
       IndexID = 3126
-      Text = 'Convert TurboCASH4 to this version?'
+      Text = 'Convert <@APPNAME@> to this version?'
     end
     item
       IndexID = 1000055
@@ -11612,11 +11604,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3167
-      Text = 'Column balances debtors D/C'
+      Text = 'Column balances debtor D/C'
     end
     item
       IndexID = 3168
-      Text = 'Column balances creditors D/C'
+      Text = 'Column balances creditor D/C'
     end
     item
       IndexID = 3169
@@ -11720,7 +11712,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3194
-      Text = 'Community'
+      Text = 'Wiki'
     end
     item
       IndexID = 3195
@@ -11818,7 +11810,7 @@ object TTranslationSaveObject
       IndexID = 3218
       Text = 
         'Username and password are used to log in to our forum and shop n' +
-        'ot for TurboCASH self'
+        'ot for <@APPNAME@> self'
     end
     item
       IndexID = 3219
@@ -12473,14 +12465,14 @@ object TTranslationSaveObject
     item
       IndexID = 3349
       Text = 
-        'There is document(s) associated with this project! Do you wish t' +
-        'o continue ? All project data will be lost!'
+        'There is document input asossiated with this project! Do you wis' +
+        'h to continue ? All project data will be lost!'
     end
     item
       IndexID = 3350
       Text = 
-        'There is transaction(s) associated with this project! Do you wis' +
-        'h to continue ? All project data will be lost!'
+        'There is transaction input asossiated with this project! Do you ' +
+        'wish to continue ? All project data will be lost!'
     end
     item
       IndexID = 3351
@@ -12590,11 +12582,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3376
-      Text = 'Financial tools'
+      Text = 'Financial Tools'
     end
     item
       IndexID = 3377
-      Text = 'Generic plugins'
+      Text = 'Generic Plugins'
     end
     item
       IndexID = 3378
@@ -12610,7 +12602,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3381
-      Text = 'Stock check'
+      Text = 'StockCheck'
     end
     item
       IndexID = 3382
@@ -12678,7 +12670,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3398
-      Text = 'Location-Serials-Batches'
+      Text = 'Location-Serilisation-Batches'
     end
     item
       IndexID = 3400
@@ -12694,7 +12686,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3403
-      Text = 'Register plugins'
+      Text = 'Register Plugins'
     end
     item
       IndexID = 3404
@@ -12702,11 +12694,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3405
-      Text = 'Stock plugins'
+      Text = 'Stock Plugins'
     end
     item
       IndexID = 3406
-      Text = 'Document plugins'
+      Text = 'Document Plugins'
     end
     item
       IndexID = 3407
@@ -12714,15 +12706,15 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3408
-      Text = 'Driving school plugin'
+      Text = 'Driving School Plugin'
     end
     item
       IndexID = 3409
-      Text = 'Postal code / tax id / reg. no. lookup'
+      Text = 'Postalcode / tax id / regno lookup'
     end
     item
       IndexID = 3410
-      Text = 'Dutch Tax plugin'
+      Text = 'Dutch Tax Plugin'
     end
     item
       IndexID = 3411
@@ -12742,7 +12734,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3415
-      Text = 'Volume sales'
+      Text = 'Woodsales'
     end
     item
       IndexID = 3416
@@ -12771,8 +12763,9 @@ object TTranslationSaveObject
     item
       IndexID = 3422
       Text = 
-        'Welcome to the forum! You need to sign up, or sign in, to post o' +
-        'n our forum!'
+        'You are not yet registered to post on our forum! You will need t' +
+        'o register <@APPNAME@> to use that username password to login to' +
+        ' our forum or shop.'
     end
     item
       IndexID = 3423
@@ -12804,7 +12797,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906102
-      Text = 'Contra accounts'
+      Text = 'Contra Accounts'
     end
     item
       IndexID = 906103
@@ -12968,7 +12961,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906143
-      Text = 'Balances detail history (open item)'
+      Text = 'Balances detail history'
     end
     item
       IndexID = 906144
@@ -13104,7 +13097,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906177
-      Text = 'TurboCASH user'
+      Text = '<@APPNAME@> user'
     end
     item
       IndexID = 906178
@@ -13680,7 +13673,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 903154
-      Text = 'Correct Incl./Excl. Tax amount (Reverse bug)'
+      Text = 'Correct Incl. Excl. Tax amount (Reverse bug)'
     end
     item
       IndexID = 903155
@@ -13790,7 +13783,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 903181
-      Text = 'Please register TurboCASH first!'
+      Text = 'Please register <@APPNAME@> first !'
     end
     item
       IndexID = 903182
@@ -13870,11 +13863,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3445
-      Text = 'Please register TurboCASH first!'
+      Text = 'Please register <@APPNAME@> first!'
     end
     item
       IndexID = 3446
-      Text = 'To register plugins, you need to register TurboCASH first!'
+      Text = 'To register plugins, you need to register <@APPNAME@> first!'
     end
     item
       IndexID = 3447
@@ -13966,7 +13959,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906275
-      Text = 'accepted'
+      Text = 'Accepted'
     end
     item
       IndexID = 906276
@@ -14014,11 +14007,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3476
-      Text = 'Sync to TurboCASH'
+      Text = 'Sync to <@APPNAME@>'
     end
     item
       IndexID = 3477
-      Text = 'From TurboCASH to Outlook'
+      Text = 'From <@APPNAME@> to Outlook'
     end
     item
       IndexID = 3478
@@ -15832,7 +15825,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 906443
-      Text = 'Ref. no.'
+      Text = 'Ref. No.'
     end
     item
       IndexID = 906444
@@ -15954,7 +15947,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3646
-      Text = 'Hide TurboCASH interface'
+      Text = 'Hide <@APPNAME@> interface'
     end
     item
       IndexID = 3647
@@ -16066,15 +16059,11 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3672
-      Text = 'Enable auto set inactive debtor after x days unpaid'
+      Text = 'Enable auto set inactive debtor after x days unpayed'
     end
     item
       IndexID = 3673
-      Text = 'Days after payment before inactive'
-    end
-    item
-      IndexID = 906550
-      Text = 'Tax report - Reference / Document no.'
+      Text = 'Days before inactive'
     end
     item
       IndexID = 3674
@@ -16082,7 +16071,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3675
-      Text = 'Tax list debtor with tax id'
+      Text = 'Tax list debtor / creditor with taxid'
     end
     item
       IndexID = 3676
@@ -16104,7 +16093,7 @@ object TTranslationSaveObject
     end
     item
       IndexID = 3680
-      Text = 'Max sales date'
+      Text = 'Max salesdate'
     end
     item
       IndexID = 3681
@@ -16121,18 +16110,6 @@ object TTranslationSaveObject
     item
       IndexID = 3684
       Text = 'Total sold'
-    end
-    item
-      IndexID = 906551
-      Text = 'Creditor remittance advice - Outstanding'
-    end
-    item
-      IndexID = 906552
-      Text = 'Debtor statement - Outstanding'
-    end
-    item
-      IndexID = 906553
-      Text = 'Tax list creditor with tax id'
     end
     item
       IndexID = 3685
@@ -16153,5 +16130,17 @@ object TTranslationSaveObject
     item
       IndexID = 3689
       Text = 'Total Stock value'
+    end
+    item
+      IndexID = 3690
+      Text = 'Enter email adress seperate with ;'
+    end
+    item
+      IndexID = 3691
+      Text = 'Countries'
+    end
+    item
+      IndexID = 3692
+      Text = 'Correction missing transact'
     end>
 end
