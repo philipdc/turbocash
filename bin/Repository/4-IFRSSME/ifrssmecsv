@@ -1,0 +1,149 @@
+	Assets	1	0	Dr	
+1	Property, Plant And Equipment	1100	1	Dr	0
+2	Land And Land Improvements	1110	2	Dr	0
+3	Buildings, Structures And Improvements	1120	2	Dr	0
+4	Machinery And Equipment	1130	2	Dr	0
+5	Furniture And Fixtures	1140	2	Dr	0
+6	Right Of Use Assets (Classified As PP&E)	1150	2	Dr	0
+7	Additional Property, Plant And Equipment	1160	2	Dr	0
+8	Construction In Progress	1170	2	Dr	0
+9	Investment Property	1200	1	Dr	0
+10	Investment Property	1210	2	Dr	0
+11	Investment Property Under Construction Or Development	1220	2	Dr	0
+12	Goodwill	1300	1	Dr	0
+13	Intangible Assets (Excluding Goodwill)	1400	1	Dr	0
+14	Intellectual Property	1410	2	Dr	0
+15	Computer Software	1420	2	Dr	0
+16	Trade And Distribution Assets	1430	2	Dr	0
+17	Contracts And Rights	1440	2	Dr	0
+18	Right To Use Assets (Classified By Type)	1450	2	Dr	0
+19	Other Intangible Assets	1460	2	Dr	0
+20	Acquisition In Progress	1470	2	Dr	0
+21	Financial Assets (Investments)	1500	1	Dr	0
+22	Non-Derivative Financial Assets	1510	2	Dr	0
+23	Derivative Financial Assets	1520	2	Dr	0
+24	Restricted Cash And Financial Assets	1530	2	Dr	0
+25	Additional Financial Assets And Investments	1540	2	Dr	0
+26	Agricultural (Biological) Assets	1600	1	Dr	0
+27	Bearer Plants	1610	2	Dr	0
+28	Animals	1620	2	Dr	0
+29	Other Agricultural Assets	1630	2	Dr	0
+30	Inventory	1700	1	Dr	0
+31	Merchandise	1710	2	Dr	0
+32	Raw Material, Parts And Supplies	1720	2	Dr	0
+33	Work In Process	1730	2	Dr	0
+34	Finished Goods	1740	2	Dr	0
+35	Other Inventory	1750	2	Dr	0
+36	Accruals And Additional Assets	1800	1	Dr	0
+37	Prepaid Expense	1810	2	Dr	0
+38	Accrued Income	1820	2	Dr	0
+39	Additional Assets	1830	2	Dr	0
+40	Receivables And Contracts	1900	1	Dr	0
+41	Accounts, Notes And Loans Receivable	1910	2	Dr	0
+42	Contracts	1920	2	Dr	0
+43	Nontrade And Other Receivables	1930	2	Dr	0
+44	Cash And Cash Equivalents	1000	1	Dr	0
+45	Cash	1010	2	Dr	0
+46	Cash Equivalents	1020	2	Dr	0
+	Equity	2	0	(Cr)	
+47	Owners Equity (Attributable To Owners Of Parent)	2100	1	(Cr)	0
+48	Equity At Par (Issued Capital)	2110	2	(Cr)	0
+49	Retained Earnings	2120	2	(Cr)	0
+50	Additional Paid-In Capital	2130	2	(Cr)	0
+51	Treasury Stock	2200	1	Dr	0
+52	Treasury Stock Common	2210	2	Dr	0
+53	Treasury Stock Preferred	2220	2	Dr	0
+54	Accumulated OCI	2300	1	Dr or (Cr)	0
+55	Exchange Differences On Translation	2310	2	Dr or (Cr)	0
+56	Remeasurements Cash Flow Hedges	2320	2	Dr or (Cr)	0
+57	Remeasurements Available-For-Sale Financial Assets	2330	2	Dr or (Cr)	0
+58	Remeasurement Of Defined Benefit Plans	2340	2	Dr	0
+59	Revaluation Surplus (IFRS Only)	2350	2	(Cr)	0
+60	Remeasurements Investments In Equity Instruments (IFRS only)	2360	2	Dr or (Cr)	0
+61	Other Equity Items	2400	1	Dr or (Cr)	0
+62	ESOP Related Items	2410	2	Dr or (Cr)	0
+63	Subscribed Stock Receivables	2420	2	Dr	0
+64	Miscellaneous Equity	2500	1	(Cr)	0
+65	Non-controlling (Minority) Interest	2600	1	(Cr)	0
+	Liabilities	3	0	(Cr)	
+66	Payables	3100	1	(Cr)	0
+67	Trade Payables	3110	2	(Cr)	0
+68	Dividends Payable	3120	2	(Cr)	0
+69	Interest Payable	3130	2	(Cr)	0
+70	Other Payables	3140	2	(Cr)	0
+71	Provisions (Contingencies)	3200	1	(Cr)	0
+72	Customer Related Provisions	3210	2	(Cr)	0
+73	Ligation And Regulatory Provisions	3220	2	(Cr)	0
+74	Additional Provisions	3230	2	(Cr)	0
+75	Financial Labilities	3300	1	(Cr)	0
+76	Notes Payable	3310	2	(Cr)	0
+77	Loans Payable	3320	2	(Cr)	0
+78	Bonds (Debentures)	3330	2	(Cr)	0
+79	Other Debts And Borrowings	3340	2	(Cr)	0
+80	Lease Obligations	3350	2	(Cr)	0
+81	Derivative Financial Liabilities	3360	2	(Cr)	0
+82	Accruals And Other Liabilities	3400	1	(Cr)	0
+83	Accrued Expenses	3410	2	(Cr)	0
+84	Deferred Income (Unearned Revenue)	3420	2	(Cr)	0
+85	Accrued Taxes (Other Than Payroll)	3430	2	(Cr)	0
+86	Other Liabilities	3440	2	(Cr)	0
+87	Revenue	4	0	(Cr)	
+88	Recognized Point Of Time	4100	1	(Cr)	0
+89	Goods	4110	2	(Cr)	0
+90	Services	4120	2	(Cr)	0
+91	Recognized Over Time	4200	1	(Cr)	0
+92	Products	4210	2	(Cr)	0
+93	Services	4220	2	(Cr)	0
+94	Adjustments	4300	1	Dr	0
+95	Variable Consideration	4310	2	Dr	0
+96	Consideration Paid (Payable) To Customers	4320	2	Dr	0
+97	Other Adjustments	4330	2	Dr	0
+	Expenses	5	0	Dr	0
+98	Expenses Classified By Nature	5100	1	Dr	0
+99	Material And Merchandise	5110	2	Dr	0
+100	Employee Benefits	5120	2	Dr	0
+101	Services	5130	2	Dr	0
+102	Rent, Depreciation, Amortization And Depletion	5140	2	Dr	0
+103	Increase (Decrease) In Inventories Of Finished Goods And Work In Progress (IFRS only)	5150	2	Dr / Cr	0
+104	Other Work Performed By Entity And Capitalized (IFRS only)	5160	2	Dr	0
+105	Expenses Classified By Function	5200	1	Dr	0
+106	Cost Of Sales	5210	2	Dr	0
+107	Selling, General And Administrative	5220	2	Dr	0
+	Other (Non-Operating) Income And Expenses	6	0	Dr or (Cr)	
+108	Other Revenue And Expenses	6100	1	Dr or (Cr)	0
+109	Other Revenue	6110	2	Dr or (Cr)	0
+110	Other Expenses	6120	2	(Cr)	0
+111	Gains And Losses	6200	1	Dr	0
+112	Foreign Currency Transaction Gain (Loss)	6210	2	Dr or (Cr)	0
+113	Gain (Loss) On Investments	6220	2	Dr or (Cr)	0
+114	Gain (Loss) On Derivatives	6230	2	Dr or (Cr)	0
+115	Gain (Loss) On Disposal Of Assets	6240	2	Dr or (Cr)	0
+116	Debt Related Gain (Loss)	6250	2	Dr or (Cr)	0
+117	Impairment Loss	6260	2	Dr or (Cr)	0
+118	Impairment Loss (Reversal) Financial Assets (IFRS Only)	6270	2		0
+119	Other Gains And (Losses)	6280	2	Dr	0
+120	Taxes (Other Than Income And Payroll) And Fees	6300	1	Dr or (Cr)	0
+121	Real Estate Taxes And Insurance	6310	2	Dr	0
+122	Highway (Road) Taxes And Tolls	6320	2	Dr	0
+123	Miscellaneous Taxes	6324	2	Dr	0
+124	Other Taxes And Fees	6326	2	Dr	0
+125	Direct Tax And License Fees	6330	2	Dr	0
+126	Excise And Sales Taxes	6340	2	Dr	0
+127	Customs Fees And Duties (Not Classified As Sales Or Excise)	6350	2	Dr	0
+128	Non-Deductible VAT (GST)	6360	2	Dr	0
+129	General Insurance Expense	6370	2	Dr	0
+130	Administrative Fees (Revenue Stamps)	6380	2	Dr	0
+131	Fines And Penalties	6390	2	Dr	0
+132	Income Tax Expense (Benefit)	6400	1	Dr	0
+	Intercompany And Related Party Accounts	7	0	Dr	
+133	Intercompany And Related Party Assets	7100	1	Dr	0
+134	Intercompany Balances (Eliminated In Consolidation)	7110	2	Dr	0
+135	Related Party Balances (Reported Or Disclosed)	7120	2	Dr	0
+136	Intercompany Investments	7130	2	Dr	0
+137	Intercompany And Related Party Liabilities	7200	1	Dr	0
+138	Intercompany Balances (Eliminated In Consolidation)	7210	2	(Cr)	0
+139	Related Party Balances (Reported Or Disclosed)	7220	2	(Cr)	0
+140	Intercompany And Related Party Income And Expense	7300	1	(Cr)	0
+141	Intercompany And Related Party Income	7310	2	(Cr)	0
+142	Intercompany And Related Party Expenses	7320	2	(Cr)	0
+143	Income (Loss) From Equity Method Investments	7330	2	Dr	0
